@@ -6,7 +6,6 @@ use Config::Any;
 use Data::Dumper ();
 use Regexp::Assemble;
 
-# VERSION
 # PODNAME: html_formfu_dumpconf.pl
 
 if ( @ARGV == 1 && $ARGV[0] =~ m/\A --? h(?:elp)? \z/ix) {

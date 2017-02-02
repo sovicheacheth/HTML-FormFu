@@ -2,7 +2,6 @@
 use strict;
 use warnings;
 
-# VERSION
 # PODNAME: html_formfu_deploy.pl
 
 use HTML::FormFu::Deploy;
